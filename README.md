@@ -20,6 +20,9 @@ This is a python deployment package to write a sample JSON to the data stream na
 ## read-data-stream-py
 This python deployment package will attempt to read the JSON payload from the data stream. Further manipulation of JSON payload can be done here.
 
+## json-transformation.py
+This is a sample python script that sanitise a bulky JSON payload to a light weight payload
+
 
 
 
