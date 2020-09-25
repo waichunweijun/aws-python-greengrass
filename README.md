@@ -2,7 +2,10 @@
 Python codes for local lambda function running in Edge gateway
 
 This is a sample showcase of lambda function that will be running in an edge gateway running AWS Greengrass software.
-This project is meant to simulate writing a JSON payload to 
+This project is meant to simulate writing a JSON payload to data-stream.
+
+## What is AWS greengrass and why deploy Lambda function on greengrass?
+AWS IoT Greengrass is software that extends cloud capabilities to local devices. This enables devices to collect and analyze data closer to the source of information, react autonomously to local events, and communicate securely with each other on local networks. Local devices can also communicate securely with AWS IoT Core and export IoT data to the AWS Cloud. With a lambda function running locally in an edge gateway, it reduces the cost of cloud services as well.
 
 
 ## Deploying lambda function
